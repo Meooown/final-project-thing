@@ -1,3 +1,10 @@
+'''
+Multi-game project
+Created by @Meooown on Github
+Created 4/25/2021
+Last updated 9/6/2022
+'''
+
 #packages imported
 import random
 import os
